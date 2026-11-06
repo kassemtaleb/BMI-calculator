@@ -32,7 +32,7 @@ This project allows users to calculate their Body Mass Index (BMI) by entering t
 ## How to Run
 
 1. Clone this repository:
- 
+ https://github.com/kassemtaleb/BMI-calculator.git
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
